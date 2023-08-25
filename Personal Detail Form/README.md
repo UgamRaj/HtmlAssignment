@@ -2,6 +2,7 @@
 
 ## Host Link
 
+[Personal Detail Form](https://ugamraj.github.io/HtmlAssignment/Personal%20Detail%20Form/)
 
 ### Section
 
