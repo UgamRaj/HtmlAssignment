@@ -2,6 +2,8 @@
 
 ## Hosted Link
 
+[Tribute Link](https://ugamraj.github.io/HtmlAssignment/Tribute%20Page/)
+
 ### Section
 
 #### Head Section
