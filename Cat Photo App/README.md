@@ -2,85 +2,76 @@
 
 ## Hosted link
 
-[Gallery Cake](https://ugamraj.github.io/Assignment1GalleryCake/)
+[Gallery Cake](#)
 
 ## Sections
 
-![gc part1](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/b854034c-e8b3-447c-b5ff-5e32702a37db)
-
-<!DOCTYPE html>
+![cpa part 1](https://github.com/UgamRaj/HtmlAssignment/assets/124122714/efde4b11-5438-4ae2-bd5a-6cff33200e11)
 
 Browsers to determine whether to render the webpage in standards mode (which is according to CSS specifications) or quirks mode (which is more backwars compatible with old practices and old browsers)<br/>
 The `<html>` element represents the root of an HTML document.<br/>
 `[<html lang="en">]` : The lang attribute is added to specify the document’s language for all the text on the page.<br/>
 The `<head>` element is a container for metadata (data about data) and is placed between the `<html>` tag and the `<body>` tag.
 
-![gc part 2](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/9ada4046-af80-4d77-aee4-df0a0a141d5a)
+## Cat Photo App
 
-The `<body>` element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.<br/>
-`<h1>` : Main heading Bittoo Aggarwal.<br/>
+![cpa part 2](https://github.com/UgamRaj/HtmlAssignment/assets/124122714/9b26b742-5eed-42dc-bce7-f3fe705ca01a)
+
+`<h1>` : Cat photo App <br/>
+`<h2>` : Cat photo
+
+![cpa  part 3](https://github.com/UgamRaj/HtmlAssignment/assets/124122714/faa8b6a6-d997-4426-b324-0dad2335d87c)
+
+`<div>` : The `<div>` tag defines a division or a section in an HTML document. <br/>
 `<p>`: It creates a new line before and after the element, taking up the full width of its parent container. <br/>
+`<a >`: The href attribute specifies the URL of the page the link goes to #list and link cat photos.(anchor tag) <br/>
+`<img>` : The `<img>` tag is used to embed an image in an HTML page. The `<img>` tag creates a holding space for the referenced image (cat)
 
-- [Linkedin](#)
-- [Githhub](#)
+![cpa part 5](https://github.com/UgamRaj/HtmlAssignment/assets/124122714/59ca2ad9-29cc-4389-9332-56815d880bb6)
 
-`<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.<br/>
-`<h2>` : Experience <br/>
-`<h3>` Software developer at Amazon
-
-![gc part 3](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/1105badc-b404-4369-8e58-301c69427012)
-
-`<p>`: It creates a new line before and after the element, taking up the full width of its parent container. <br/>
-`<br/>` : The <br> tag inserts a single line break.<br/>
-`<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.<br/>
-`<h3>` : Educator at Geekster.
-
-![gc part 4](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/b8a4bcbd-04d9-4814-a522-375c0d9706fb)
-
-`<p>`: It creates a new line before and after the element, taking up the full width of its parent container. <br/>
-`<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.
-
-### Skill Section
-
-![gc part 5](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/ebc7a734-efac-491d-99fb-2f10cc194202)
-
-- `<h2>`: Skills
+`<div>` : The `<div>` tag defines a division or a section in an HTML document. <br/>
+`<h2>` : Cat Lists <br/>
+`<h3>` : Things Cat love <br/>
 - `<ul>`: Unordered list
-  - `<li>`: Java
-  - `<li>`: JavaScript
-  - `<li>`: API Designing
-  - `<li>`: System Design
+  - `<li>`: cat lip
+  - `<li>`: laser pointers
+  - `<li>`: lasagna
 
-`<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.<br/>
+![cpa part 6](https://github.com/UgamRaj/HtmlAssignment/assets/124122714/a62c4e31-21a2-4b25-bb7c-81bd05b67d0f)
 
-### Hobbies Section
+`<div>` : The `<div>` tag defines a division or a section in an HTML document. <br/>
+`<img>` : The `<img>` tag is used to embed an image in an HTML page. The `<img>` tag creates a holding space for the referenced image (cat). width and height specify  <br/>
+`<p>`: It creates a new line before and after the element, taking up the full width of its parent container. here p contains cats love lasagne  <br/>
 
-![gc part 6](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/76ca68c6-edf6-4e67-9e0a-615c8c8bb57e)
+![cpa part 7](https://github.com/UgamRaj/HtmlAssignment/assets/124122714/a8becc93-1fff-48d9-85a2-c6dec5a17940)
 
-- `<h2>`: Hobbies
-- `<ol>`: Ordered list
-  - `<li>`: Table Tennis
-  - `<li>`: Reading Books
-  - `<li>`: Biography
-  - `<li>`: Teaching
+`<div>` : The `<div>` tag defines a division or a section in an HTML document. <br/>
+`<h3>` :  Top 3 things cats hate <br/>
+- `<ol>`: ordered list
+  - `<li>`: flea problem
+  - `<li>`: thunder
+  - `<li>`: other cats
 
-`<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.<br/>
+![cpa part 8](https://github.com/UgamRaj/HtmlAssignment/assets/124122714/3ab3727e-542f-4de1-8afe-f44dcaa5cd7b)
 
-### Hobbies Section
+`<div>` : The `<div>` tag defines a division or a section in an HTML document. <br/>
+`<img>` : The `<img>` tag is used to embed an image in an HTML page. The `<img>` tag creates a holding space for the referenced image (cat). width and height specify  <br/>
+`<p>`: It creates a new line before and after the element, taking up the full width of its parent container. <br/>
+`<strong>` : The `<strong>` tag is used to define text with strong importance.
 
-![gc part 7](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/cbf2027f-d4de-44c5-a49b-02d788136367)
+![cpa part 9](https://github.com/UgamRaj/HtmlAssignment/assets/124122714/9a7adfd0-6813-447e-9df6-df4e0bad300d)
 
-`<h2>` : Projects <br/>
-`<dl>` : The element encloses a list of groups of terms (specified using the <dt> element) and descriptions (provided by <dd> elements). Common uses for this element are to implement a glossary or to display metadata (a list of key-value pairs).<br/>
-`<dt>` : Project-1 <br/>
-`<dd>` : descriptions of project-1 <br/>
-`<dt>` : Project-2 <br/>
-`<dd>` : descriptions of project-2 <br/>
-`<hr>` : This element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.
+`<h2>` : Cat table <br/>
+`<table>` : HTML table tag is used to display data in tabular form (row * column).<br/>
+An HTML table consists of one `<table>` element and one or more `<tr>`, `<th>`, and `<td>` elements. The `<tr>` element defines a table row, the `<th>` element defines a table header, and the `<td>` element defines a table cell.
 
-![gc part 8](https://github.com/UgamRaj/Assignment1GalleryCake/assets/124122714/735b2948-ca24-4807-a393-06f4ad8416a2)
+![cpa part 10](https://github.com/UgamRaj/HtmlAssignment/assets/124122714/5c3b558b-bb02-4df6-aea8-1ca27eb2a95d)
 
-`<pre>` : The `<pre>` tag defines preformatted text. Text in a `<pre>` element is displayed in a fixed-width font, and the text preserves both spaces and line breaks. <br/>
-`<pre>` : Contact Details
-Email:abc@gamil.com
-Mobile no. :8448xxxx18
+`<h2>` : Summary  <br/>
+`<p>`: It creates a new line before and after the element, taking up the full width of its parent container. here p contains cats love lasagne  <br/>
+`<strong>` : The `<strong>` tag is used to define text with strong importance.  <br/>
+`<i>` : The content inside is typically displayed in italic <br/>
+`<i>` : The `<b>` tag in HTML is used to specify the bold text without any extra importance. <br/>
+`<em>` : The `<em>` tag is used to define emphasized text. The content inside is typically displayed in italic. 
+
+
