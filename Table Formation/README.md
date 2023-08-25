@@ -1,8 +1,8 @@
-# Hosted Link
+# Table Formation Assignment
 
-[Table Formation] (#)
+## Hosted Link
 
-## Table Formation
+[Table Formation](https://ugamraj.github.io/HtmlAssignment/Table%20Formation/)
 
 ## Section
 
