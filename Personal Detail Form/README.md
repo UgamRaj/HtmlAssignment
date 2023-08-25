@@ -1,6 +1,6 @@
 # Personal Details Form
 
-## Host Link
+## Hosted Link
 
 [Personal Detail Form](https://ugamraj.github.io/HtmlAssignment/Personal%20Detail%20Form/)
 
