@@ -1,8 +1,8 @@
-# Assignment1GalleryCake
+# Assignment
 
 ## Hosted link
 
-[Gallery Cake](#)
+[Cat Photo App](#)
 
 ## Sections
 
