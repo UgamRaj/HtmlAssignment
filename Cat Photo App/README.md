@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 
 # Assignment
 
@@ -77,4 +75,3 @@ An HTML table consists of one `<table>` element and one or more `<tr>`, `<th>`, 
 `<i>` : The `<b>` tag in HTML is used to specify the bold text without any extra importance. <br/>
 `<em>` : The `<em>` tag is used to define emphasized text. The content inside is typically displayed in italic. 
 
->>>>>>> 2c4c7ecb6823fa10d089e96833383da29d43953c
