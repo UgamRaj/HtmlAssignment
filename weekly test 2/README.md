@@ -2,7 +2,7 @@
 
 ## Hosted Link
 
-[Weekly Test2](#)
+[Weekly Test2](https://ugamraj.github.io/HtmlAssignment/weekly%20test%202/)
 
 ### Section
 
